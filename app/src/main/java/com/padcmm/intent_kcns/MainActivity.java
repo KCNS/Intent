@@ -21,8 +21,6 @@ import butterknife.OnClick;
 public class MainActivity extends AppCompatActivity {
 
 
-
-
     static final int REQUEST_PHONE = 100;
     static final int REQUEST_IMAGE_CAPTURE = 1;
     static final int PICK_IMAGE_REQUEST = 1;
